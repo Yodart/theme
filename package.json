@@ -1,0 +1,21 @@
+{
+    "name": "yodart-theme",
+    "displayName": "Yodart Theme",
+    "description": "The Official Yodart Theme!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Yodart",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Yodart-color-theme.json"
+            }
+        ]
+    }
+}
