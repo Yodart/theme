@@ -2,7 +2,7 @@
 
 
 [![IDE](https://img.shields.io/badge/IDE-VS_Code-purple)](https://img.shields.io/badge/IDE-VS_Code-purple)
-[![Version](https://img.shields.io/badge/Version-1.0.1-blue)](https://img.shields.io/badge/Version-1.0.1-blue)
+[![Version](https://img.shields.io/badge/Version-0.0.2-blue)](https://img.shields.io/badge/Version-0.0.2-blue)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Yodart Theme is a beautiful and customizable theme for Visual Studio Code that provides a pleasant coding experience. It is designed to be easy on the eyes and improve your productivity by making your code visually appealing.
